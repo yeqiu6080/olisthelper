@@ -1,6 +1,6 @@
 ## Getting Started
 
-If you're interested in contributing code to AlistHelper, you'll need to follow these steps:
+If you're interested in contributing code to OlistHelper, you'll need to follow these steps:
 
 ## Run
 
@@ -20,8 +20,8 @@ You can help translating this app to other languages!
 
 1. Fork this repository
 2. Choose one
-   - Add missing translations in existing languages: Only update `_missing_translations_<locale>.json` in [lib/i18n](https://github.com/Xmarmalade/alisthelper/tree/master/lib/i18n)
-   - Fix existing translations: Update `strings_<locale>.i18n.json` in [lib/i18n](https://github.com/Xmarmalade/alisthelper/tree/master/lib/i18n)
+   - Add missing translations in existing languages: Only update `_missing_translations_<locale>.json` in [lib/i18n](https://github.com/yeqiu6080/Olisthelper/tree/master/lib/i18n)
+   - Fix existing translations: Update `strings_<locale>.i18n.json` in [lib/i18n](https://github.com/yeqiu6080/Olisthelper/tree/master/lib/i18n)
    - Add new languages: Create a new file, see also: [locale codes](https://saimana.com/list-of-country-locale-code/).
 3. Optional: Re-run this app
    1. Make sure you have [run](#run) this app once.
@@ -33,7 +33,7 @@ You can help translating this app to other languages!
 
 ## Contributing Guidelines
 
-Before you submit a pull request to AlistHelper, please ensure that you have followed these guidelines:
+Before you submit a pull request to OlistHelper, please ensure that you have followed these guidelines:
 
 - Code should be well-documented and formatted according to the [Dart Style Guide](https://dart.dev/guides/language/effective-dart/style).
 - All changes should be covered by tests.
@@ -42,4 +42,4 @@ Before you submit a pull request to AlistHelper, please ensure that you have fol
 
 ## Bug Reports and Feature Requests
 
-If you encounter a bug in AlistHelper or have a feature request, please submit an issue to the [issue tracker](https://github.com/Xmarmalade/alisthelper/issues). Please be sure to provide a clear description of the problem or feature request, along with any relevant context or steps to reproduce the issue.
+If you encounter a bug in OlistHelper or have a feature request, please submit an issue to the [issue tracker](https://github.com/yeqiu6080/Olisthelper/issues). Please be sure to provide a clear description of the problem or feature request, along with any relevant context or steps to reproduce the issue.
